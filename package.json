@@ -1,0 +1,16 @@
+{
+  "name": "provider-update-demo-razorpay",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/node": "22.5.4",
+    "dayjs": "1.11.11",
+    "razorpay": "2.9.0",
+    "typescript": "5.5.4",
+    "zod": "3.23.8"
+  },
+  "scripts": {
+    "test": "node scripts/verify.mjs"
+  }
+}
