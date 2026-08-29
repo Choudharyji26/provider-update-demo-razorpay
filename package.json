@@ -6,7 +6,7 @@
     "@biomejs/biome": "1.9.4",
     "@types/node": "22.5.4",
     "dayjs": "1.11.11",
-    "razorpay": "2.9.0",
+    "razorpay": "2.9.8",
     "typescript": "5.5.4",
     "zod": "3.23.8"
   },
